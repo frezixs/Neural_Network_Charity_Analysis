@@ -41,7 +41,10 @@ Adding epochs
 Change activation functions
 ![1630900231(1)](https://user-images.githubusercontent.com/49871539/132158236-e924ff67-57eb-4702-82f3-3386ef6cd81d.png)
 
-
+## Summary
+The most useful method is drop noisy features and keep those important features 
+since other approaches all based on the trained data after noisy features are dropped. 
+And there are no improvement, even decrease of the accuracy. 
 
 
 
